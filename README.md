@@ -46,14 +46,22 @@ Ex.:
 
 Available Commands:
 
-  base64      Make encode and decode of string
+  base64      Make encode and decode of string 
+
   checkports  check open port of a server
+
   completion  Generate the autocompletion script for the specified shell
+
   epoc        A brief description of your command (instructions coming soon)
+
   help        Help about any command
+
   password    Generate a secure password
+
   printscreen A brief description of your command (instructions coming soon)
+
   whois       A brief description of your command (instructions coming soon)
+  
 
 
 
