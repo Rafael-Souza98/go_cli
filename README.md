@@ -45,6 +45,7 @@ Ex.:
     ./go_cli base64 --e anyword
 
 Available Commands:
+
   base64      Make encode and decode of string
   checkports  check open port of a server
   completion  Generate the autocompletion script for the specified shell
@@ -58,8 +59,7 @@ Available Commands:
 
 ## Authors
 
-  - **Curso Programação Go para DevOps e SREs -
-    [Linkedin](https://www.udemy.com/course/programacao-go-para-devops-e-sres/)
+  - Curso Programação Go para DevOps e SREs (https://www.udemy.com/course/programacao-go-para-devops-e-sres/)
 
 
 
