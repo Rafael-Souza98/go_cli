@@ -39,7 +39,9 @@ Now, still in terminal, type the following command to start the cobra-cli framew
 ### Usage
 
 Type the command "./go_cli + [command]" for use the tools.
+
 Ex.:
+
     ./go_cli base64 --e anyword
 
 Available Commands:
